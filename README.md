@@ -15,3 +15,8 @@ An example of scaffolding a project using the new prism cli which was just renam
 ---
 
 [Ernest Offiong](https://github.com/Ernoff)
+
+## News
+
+This repo is out of date. Prisma has new releases and this code will break. 
+The repo will be deleted in due course
